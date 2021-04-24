@@ -2,7 +2,7 @@
 using Braveior.BuddyRewards.Service.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using RabbitMQ.Client;
+//using RabbitMQ.Client;
 using Serilog;
 using System;
 using System.Collections.Generic;
